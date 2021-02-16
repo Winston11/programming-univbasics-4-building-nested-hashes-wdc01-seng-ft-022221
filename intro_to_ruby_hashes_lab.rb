@@ -69,7 +69,7 @@ monopoly = {
     {
       :reading_railroad=>
       {
-      "mortgage_value"=> "$100"
+      "mortgage_value"=>"$100"
       },
       :pennsylvania_railroad=>
       {
@@ -81,7 +81,7 @@ monopoly = {
       },
       :shortline=>
       {
-        "mortgage_value" =>"$800"
+        "mortgage_value"=>"$800"
       }
     }
   }
