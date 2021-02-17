@@ -81,7 +81,7 @@ monopoly = {
       },
       :shortline=>
       {
-        :mortgage_value=>800
+        :mortgage_value=>"800"
       }
     }
   }
